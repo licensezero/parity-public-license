@@ -8,7 +8,7 @@ L0-R is a maximalist reciprocal open source software license that requires users
 
 [The License Zero Noncommercial Public License](https://github.com/licensezero/licensezero-noncommercial-public-license): a sister license of L0-R that limits commercial use to a free-trial period, instead of requiring release of open source. Similar to [Creative Commons' Attribution-NonCommercial License][CC-BY-NC-4.0], but for software.
 
-[CC-BY-NC-4.0]: (https://creativecommons.org/licenses/by-nc/4.0/)
+[CC-BY-NC-4.0]: https://creativecommons.org/licenses/by-nc/4.0/
 
 [The License Zero Permissive Public License](https://github.com/licensezero/licensezero-permissive-public-license): the modern, highly permissive open source license on which L0-R is based. L0-P is more in the vein of [The MIT License][MIT] or a [BSD license][BSD-2-Clause].
 
