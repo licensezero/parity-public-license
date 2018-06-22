@@ -1,0 +1,7 @@
+---
+addons:
+  apt:
+    packages:
+      - aspell
+      - aspell-en
+script: '! cat *.mustache *.md | aspell --dont-backup list | sort -u | grep "^"'
