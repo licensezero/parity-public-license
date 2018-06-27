@@ -19,3 +19,11 @@ Parity improves on previous strong-copyleft licenses in several ways.
 2.  Parity is written to be read, in plain language, with a simple "here's your permission, and here are the rules" structure.  The whole text of the license fits on a single piece of paper, with lots of room to spare.
 
 Like other share-alike licenses, Parity differs from MIT, BSD, Apache 2.0, and other pure-permissive licenses by requiring users to share software back to the community.
+
+## Family
+
+Parity is one member of a family of licenses published by [Artless Devices LLC](https://artlessdevices.com) for [licensezero.com](https://licensezero.com):
+
+- [Parity](https://github.com/licensezero/parity-public-license), a strong reciprocal license
+- [Charity](https://github.com/licensezero/charity-public-license), a permissive license
+- [Prosperity](https://github.com/licensezero/prosperity-public-license), a noncommercial license
