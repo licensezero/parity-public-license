@@ -1,6 +1,6 @@
-Jeremy Ashkenas
-Richard Littauer
-Casey Kuhlman
-Ben Hilburn
-Jeremy W. Sherman
-Markus Binsteiner
+- Jeremy Ashkenas, [@jashkenas](https://github.com/jashkenas)
+- Richard Littauer, [@RichardLitt](https://github.com/RichardLitt)
+- Casey Kuhlman, [@compleatang](https://github.com/compleatang)
+- Ben Hilburn, [@bhilburn](https://github.com/bhilburn)
+- Jeremy W. Sherman, [@jeremy-w](https://github.com/jeremy-w)
+- Markus Binsteiner, [@makkus](https://github.com/makkus)
