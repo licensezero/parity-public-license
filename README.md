@@ -4,6 +4,14 @@ Parity is a public `LICENSE` for open software that requires users who build wit
 
 Parity is a [flipped form](https://flippedform.com) in everyday English.  If something doesn't make sense, that's Parity's fault, not yours.  Please [open an issue on GitHub](https://github.com/licensezero/parity-public-license/issues/new) so we can fix it.
 
+## User Group and Releases
+
+If you're using Parity for a project:
+
+[E-mail kyle@artlessdevices.com to join the private user group](mailto:kyle@artlessdevies.com?subject=Parity%20User%20Group)
+
+[Watch new releases](https://help.github.com/articles/watching-and-unwatching-releases-for-a-repository/) from the [GitHub repository for the license](https://github.com/licensezero/parity-public-license).
+
 ## Why?
 
 You might choose Parity because you're a [pragmatic idealist](https://www.gnu.org/philosophy/pragmatic.en.html) looking for a copyleft license that's evolved with the times.
