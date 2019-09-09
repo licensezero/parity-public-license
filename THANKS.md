@@ -5,3 +5,4 @@
 - Jeremy W. Sherman, [@jeremy-w](https://github.com/jeremy-w)
 - Markus Binsteiner, [@makkus](https://github.com/makkus)
 - Luis Villa [@tieguy](https://github.com/tieguy)
+- Daniel Compton [@danielcompton](https://github.com/danielcompton)
