@@ -36,19 +36,11 @@ The contributor cannot revoke this license.
 
 ## Copyleft
 
-With the exception of [prototypes](#prototypes):
-
-1.  [Contribute](#contributing) all changes and additions you make to this software.
-
-2.  If you combine this software with other software, [contribute](#contributing) that software.
-
-3.  [Contribute](#contributing) other software you develop, deploy, monitor, or run with this software.
-
-4.  When in doubt, [contribute](#contributing).
+[Contribute](#contributing) software that you develop, deploy, monitor, or run with this software, including changed or extended versions of this software.  When in doubt, [contribute](#contributing).
 
 ## Prototypes
 
-You need not [contribute](#contributing) prototype changes, additions, or other software that you do not end up using for more than thirty calendar days, sharing outside the development team working on the prototype, or using to provide a service to anyone else.
+You do not have to [contribute](#contributing) prototypes that you do not end up using for more than thirty calendar days, sharing outside the development team working on the prototype, or using to provide a service to anyone else.
 
 ## Contributing
 
