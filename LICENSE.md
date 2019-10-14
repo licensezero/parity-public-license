@@ -8,7 +8,7 @@ Source Code: {{{source}}}
 
 ## Purpose
 
-This license lets you use and share this software for free, as long as you contribute software you make with it, other than prototypes.
+This license lets you use and share this software for free, as long as you contribute software you develop, study, or operate with it, other than prototypes.
 
 ## Acceptance
 
@@ -36,7 +36,7 @@ The contributor cannot revoke this license.
 
 ## Copyleft
 
-[Contribute](#contributing) software that you develop, deploy, monitor, or run with this software, including changed or extended versions of this software.  When in doubt, [contribute](#contributing).
+[Contribute](#contributing) software that you develop, study, or operate with this software, including changed or extended versions of this software.  When in doubt, [contribute](#contributing).
 
 ## Prototypes
 
@@ -46,7 +46,7 @@ You need not [contribute](#contributing) any change, addition, or other software
 
 2.  You do not share it outside the development team working on the prototype.
 
-3.  You do not use it to develop or operate software for anyone outside the development team.
+3.  You do not use it to develop, study, or operate software for anyone outside the development team.
 
 ## Contributing
 
