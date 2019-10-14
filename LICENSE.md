@@ -40,7 +40,13 @@ The contributor cannot revoke this license.
 
 ## Prototypes
 
-You do not have to [contribute](#contributing) prototypes that you do not end up using for more than thirty calendar days, sharing outside the development team working on the prototype, or using to provide a service to anyone else.
+You need not [contribute](#contributing) any change, addition, or other software that meets all these criteria:
+
+1.  You do not use it for more than thirty calendar days.
+
+2.  You do not share it outside the development team working on the prototype.
+
+3.  You do not use it to develop or operate software for anyone outside the development team.
 
 ## Contributing
 
