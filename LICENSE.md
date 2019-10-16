@@ -44,6 +44,10 @@ When this license requires you to [contribute](#contributing):
 
 Note that this license does _not_ allow you to change the license terms for this software.
 
+## Defense
+
+Do not make any legal claim against anyone accusing this software, with or without changes, alone or with other software, of infringing any patent claim.
+
 ## Copyright
 
 The contributor licenses you to do everything with this software that would otherwise infringe their copyright in it.
@@ -51,10 +55,6 @@ The contributor licenses you to do everything with this software that would othe
 ## Patent
 
 The contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
-
-## Defense
-
-Do not make any legal claim against anyone accusing this software, with or without changes, alone or with other software, of infringing any patent claim.
 
 ## Reliability
 
