@@ -18,22 +18,6 @@ In order to receive this license, you must agree to its rules.  The rules of thi
 
 You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license and the contributor and source code lines above.
 
-## Copyright
-
-The contributor licenses you to do everything with this software that would otherwise infringe their copyright in it.
-
-## Patent
-
-The contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
-
-## Defense
-
-Do not make any legal claim against anyone accusing this software, with or without changes, alone or with other software, of infringing any patent claim.
-
-## Reliability
-
-The contributor cannot revoke this license.
-
 ## Copyleft
 
 [Contribute](#contributing) software that you develop, study, or operate with this software, including changed or extended versions of this software.  When in doubt, [contribute](#contributing).
@@ -59,6 +43,22 @@ When this license requires you to [contribute](#contributing):
 3.  Take these steps within thirty calendar days of when you first did anything requiring [contribution](#contributing).
 
 Note that this license does _not_ allow you to change the license terms for this software.
+
+## Copyright
+
+The contributor licenses you to do everything with this software that would otherwise infringe their copyright in it.
+
+## Patent
+
+The contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
+
+## Defense
+
+Do not make any legal claim against anyone accusing this software, with or without changes, alone or with other software, of infringing any patent claim.
+
+## Reliability
+
+The contributor cannot revoke this license.
 
 ## Excuse
 
