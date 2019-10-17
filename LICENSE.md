@@ -42,7 +42,7 @@ When this license requires you to [contribute](#contributing):
 
 3.  Take these steps within thirty calendar days of when you first did anything triggering a rule requiring [contribution](#contributing).
 
-Note that this license does _not_ allow you to change the license terms for this software.
+4.  Note that this license does _not_ allow you to change the license terms for this software.
 
 ## Defense
 
