@@ -40,7 +40,7 @@ When this license requires you to [contribute](#contributing):
 
 2.  Ensure that each part of that source code is available to the public under a license at least as permissive as this one, such as MIT, two-clause BSD license, Apache 2.0, or Blue Oak Model 1.0.0.
 
-3.  Take these steps within thirty calendar days of when you first did anything requiring [contribution](#contributing).
+3.  Take these steps within thirty calendar days of when you first did anything triggering a rule requiring [contribution](#contributing).
 
 Note that this license does _not_ allow you to change the license terms for this software.
 
