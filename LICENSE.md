@@ -20,7 +20,7 @@ You must ensure that everyone who gets a copy of any part of this software from 
 
 ## Copyleft
 
-[Contribute](#contributing) software that you develop, study, or operate with this software, including changed or extended versions of this software.  When in doubt, [contribute](#contributing).
+[Contribute](#contributing) software that you develop, study, or operate with this software, including changes or additions to this software.  When in doubt, [contribute](#contributing).
 
 ## Prototypes
 
