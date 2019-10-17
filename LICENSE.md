@@ -36,7 +36,7 @@ You need not [contribute](#contributing) any change, addition, or other software
 
 When this license requires you to [contribute](#contributing):
 
-1.  Publish all source code, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so the or and others can find and copy it.
+1.  Publish all source code, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so the contributor and others can find and copy it.
 
 2.  Ensure that each part of that source code is available to the public under a license at least as permissive as this one, such as MIT, two-clause BSD license, Apache 2.0, or Blue Oak Model 1.0.0.
 
