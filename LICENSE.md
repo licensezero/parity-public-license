@@ -44,6 +44,10 @@ When this license requires you to [contribute](#contributing):
 
 4.  Note that this license does _not_ allow you to change the license terms for this software.
 
+## Excuse
+
+You are excused for unknowingly breaking [copyleft](#copyleft) if you [contribute](#contributing) as required, or stop doing anything requiring this license, within thirty days of learning you broke that rule.  You are excused for unknowingly breaking [notices](#notices) if you take all practical steps to comply within thirty days of learning you broke that rule.
+
 ## Defense
 
 Do not make any legal claim against anyone accusing this software, with or without changes, alone or with other software, of infringing any patent claim.
@@ -59,10 +63,6 @@ The contributor licenses you to do everything with this software that would othe
 ## Reliability
 
 The contributor cannot revoke this license.
-
-## Excuse
-
-You are excused for unknowingly breaking [copyleft](#copyleft) if you [contribute](#contributing) as required, or stop doing anything requiring this license, within thirty days of learning you broke that rule.  You are excused for unknowingly breaking [notices](#notices) if you take all practical steps to comply within thirty days of learning you broke that rule.
 
 ## No Liability
 
