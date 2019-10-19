@@ -12,7 +12,7 @@ This license lets you use and share this software for free, as long as you contr
 
 ## Acceptance
 
-In order to receive this license, you must agree to its rules.  Those rules are both obligations under your agreement and conditions to your license.  You must not do anything with this software that triggers a rule that you cannot or will not follow.
+In order to receive this license, you must agree to its rules.  Those rules are both obligations under your agreement and conditions to your license.  You must not do anything with this software that triggers a rule you cannot or will not follow.
 
 ## Notices
 
@@ -20,7 +20,7 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 
 ## Copyleft
 
-[Contribute](#contributing) software that you develop, study, or operate with this software, including changes or additions to this software.  When in doubt, [contribute](#contributing).
+[Contribute](#contributing) software you develop, study, or operate with this software, including changes or additions to this software.  When in doubt, [contribute](#contributing).
 
 ## Prototypes
 
@@ -46,7 +46,7 @@ When this license requires you to [contribute](#contributing):
 
 ## Excuse
 
-You are excused for unknowingly breaking [Copyleft](#copyleft) if you [contribute](#contributing) as required, or stop doing anything requiring this license, within thirty days of learning you broke that rule.  You are excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke that rule.
+You are excused for unknowingly breaking [Copyleft](#copyleft) if you [contribute](#contributing) as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule.  You are excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
 
 ## Defense
 
