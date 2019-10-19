@@ -16,7 +16,7 @@ In order to receive this license, you must agree to its rules.  Those rules are 
 
 ## Notices
 
-You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license and the contributor and source code lines above.
+Ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license and the contributor and source code lines above.
 
 ## Copyleft
 
