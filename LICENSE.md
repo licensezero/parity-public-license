@@ -46,7 +46,7 @@ When this license requires you to [contribute](#contributing):
 
 ## Excuse
 
-You are excused for unknowingly breaking [copyleft](#copyleft) if you [contribute](#contributing) as required, or stop doing anything requiring this license, within thirty days of learning you broke that rule.  You are excused for unknowingly breaking [notices](#notices) if you take all practical steps to comply within thirty days of learning you broke that rule.
+You are excused for unknowingly breaking [Copyleft](#copyleft) if you [contribute](#contributing) as required, or stop doing anything requiring this license, within thirty days of learning you broke that rule.  You are excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke that rule.
 
 ## Defense
 
