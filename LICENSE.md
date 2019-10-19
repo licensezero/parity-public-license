@@ -8,7 +8,7 @@ Source Code: {{{source}}}
 
 ## Purpose
 
-This license lets you use and share this software for free, as long as you contribute software you develop, study, or operate with it, other than prototypes.
+This license lets you use and share this software for free, as long as you contribute software you develop, study, or operate with it.
 
 ## Acceptance
 
