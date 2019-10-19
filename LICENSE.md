@@ -20,11 +20,11 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 
 ## Copyleft
 
-[Contribute](#contributing) software you develop, study, or operate with this software, including changes or additions to this software.  When in doubt, [contribute](#contributing).
+[Contribute](#contribute) software you develop, study, or operate with this software, including changes or additions to this software.  When in doubt, [contribute](#contribute).
 
 ## Prototypes
 
-You need not [contribute](#contributing) any change, addition, or other software that meets all these criteria:
+You need not [contribute](#contribute) any change, addition, or other software that meets all these criteria:
 
 1.  You do not use it for more than thirty calendar days.
 
@@ -32,21 +32,21 @@ You need not [contribute](#contributing) any change, addition, or other software
 
 3.  You do not use it to develop, study, or operate software for anyone outside the development team.
 
-## Contributing
+## Contribute
 
-When this license requires you to [contribute](#contributing):
+When this license requires you to [contribute](#contribute):
 
 1.  Publish all source code, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so the contributor and others can find and copy it.
 
 2.  Make sure each part of the source code is available to the public under a license at least as permissive as this one, such as [Blue Oak Model 1.0.0](https://blueoakcouncil.org/license/1.0.0), [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), [MIT](https://spdx.org/licenses/MIT.html), or [two-clause BSD](https://spdx.org/licenses/BSD-2-Clause.html).
 
-3.  Take these steps within thirty calendar days of when you first did anything requiring [contribution](#contributing).
+3.  Take these steps within thirty calendar days of when you first did anything requiring [contribution](#contribute).
 
 4.  Note that this license does _not_ allow you to change the license terms for this software.
 
 ## Excuse
 
-You are excused for unknowingly breaking [Copyleft](#copyleft) if you [contribute](#contributing) as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule.  You are excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
+You are excused for unknowingly breaking [Copyleft](#copyleft) if you [contribute](#contribute) as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule.  You are excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
 
 ## Defense
 
