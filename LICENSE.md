@@ -50,7 +50,7 @@ You are excused for unknowingly breaking [Copyleft](#copyleft) if you [contribut
 
 ## Defense
 
-Do not make any legal claim against anyone accusing this software, with or without changes, alone or with other software, of infringing any patent.
+Do not make any legal claim against anyone accusing this software, with or without changes, alone or with other technology, of infringing any patent.
 
 ## Copyright
 
