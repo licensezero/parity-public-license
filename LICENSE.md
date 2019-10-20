@@ -30,7 +30,7 @@ You don't have to [contribute](#contribute) any change, addition, or other softw
 
 2.  You don't share it outside the team developing it.
 
-3.  You don't develop, study, or operate software for anyone outside the development team with it.
+3.  You don't develop, study, or operate software with it for anyone outside the development team.
 
 ## Contribute
 
