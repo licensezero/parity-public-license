@@ -28,7 +28,7 @@ You don't have to [contribute](#contribute) any change, addition, or other softw
 
 1.  You don't use it for more than thirty days.
 
-2.  You don't share it outside the team developing it, other than for initial user testing.
+2.  You don't share it outside the team developing it, other than for non-production user testing.
 
 3.  You don't develop, operate, or analyze software with it for anyone outside the team developing it.
 
