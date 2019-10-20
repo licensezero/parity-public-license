@@ -12,7 +12,7 @@ This license lets you use and share this software for free, as long as you contr
 
 ## Acceptance
 
-In order to receive this license, you must agree to its rules.  Those rules are both obligations under your agreement and conditions to your license.  You must not do anything with this software that triggers a rule you cannot or will not follow.
+In order to receive this license, you have to agree to its rules.  Those rules are both obligations under your agreement and conditions to your license.  Don't do anything with this software that triggers a rule you can't or won't follow.
 
 ## Notices
 
@@ -24,13 +24,13 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 
 ## Prototypes
 
-You need not [contribute](#contribute) any change, addition, or other software that meets all these criteria:
+You don't have to [contribute](#contribute) any change, addition, or other software that meets all these criteria:
 
-1.  You do not use it for more than thirty calendar days.
+1.  You don't use it for more than thirty calendar days.
 
-2.  You do not share it outside the development team working on it.
+2.  You don't share it outside the development team working on it.
 
-3.  You do not develop, study, or operate software for anyone outside the development team with it.
+3.  You don't develop, study, or operate software for anyone outside the development team with it.
 
 ## Contribute
 
@@ -50,7 +50,7 @@ You are excused for unknowingly breaking [Copyleft](#copyleft) if you [contribut
 
 ## Defense
 
-Do not make any legal claim against anyone accusing this software, with or without changes, alone or with other technology, of infringing any patent.
+Don't make any legal claim against anyone accusing this software, with or without changes, alone or with other technology, of infringing any patent.
 
 ## Copyright
 
@@ -62,7 +62,7 @@ The contributor licenses you to do everything with this software that would othe
 
 ## Reliability
 
-The contributor cannot revoke this license.
+The contributor can't revoke this license.
 
 ## No Liability
 
