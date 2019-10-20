@@ -20,7 +20,7 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 
 ## Copyleft
 
-[Contribute](#contribute) software you develop, operate, or analyze operate with this software, including changes or additions to this software.  When in doubt, [contribute](#contribute).
+[Contribute](#contribute) software you develop, operate, or analyze with this software, including changes or additions to this software.  When in doubt, [contribute](#contribute).
 
 ## Prototypes
 
