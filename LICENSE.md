@@ -66,4 +66,4 @@ The contributor can't revoke this license.
 
 ## No Liability
 
-***As far as the law allows, this software comes as is, without any warranty or condition, and the contributor will not be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***
+***As far as the law allows, this software comes as is, without any warranty or condition, and the contributor won't be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***
