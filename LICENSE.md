@@ -26,7 +26,7 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 
 You don't have to [contribute](#contribute) any change, addition, or other software that meets all these criteria:
 
-1.  You don't use it for more than thirty calendar days.
+1.  You don't use it for more than thirty days.
 
 2.  You don't share it outside the team developing it.
 
@@ -40,7 +40,7 @@ When this license requires you to [contribute](#contribute) software:
 
 2.  Make sure each part of the source code is available to the public under a license that gives as permission as this one, or more, such as [Blue Oak Model 1.0.0](https://blueoakcouncil.org/license/1.0.0), [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), [MIT](https://spdx.org/licenses/MIT.html), or [two-clause BSD](https://spdx.org/licenses/BSD-2-Clause.html).
 
-3.  Take these steps within thirty calendar days of when you first did anything requiring [contribution](#contribute).
+3.  Take these steps within thirty days of when you first did anything requiring [contribution](#contribute).
 
 4.  Note that this license does _not_ allow you to change the license terms for this software.
 
