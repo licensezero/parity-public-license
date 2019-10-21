@@ -34,7 +34,7 @@ You don't have to [contribute](#contribute) any change, addition, or other softw
 
 ## Reverse Engineering
 
-You may use this software to operate and analyze software that you can't [contribute](#contribute) to develop and [contribute](#contribute) alternatives.
+You may use this software to operate and analyze software that you can't [contribute](#contribute) to develop alternatives that you [contribute](#contribute).
 
 ## Contribute
 
