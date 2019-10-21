@@ -8,7 +8,7 @@ Parity is a [flipped form](https://flippedform.com) in everyday English.  If som
 
 If you're using Parity for a project:
 
-[E-mail kyle@artlessdevices.com to join the private user group](mailto:kyle@artlessdevies.com?subject=Parity%20User%20Group)
+[Open an issue or pull request on the repo for paritylicense.com to feature your project.](https://github.com/licensezero/parity-public-license)
 
 [Watch new releases](https://help.github.com/articles/watching-and-unwatching-releases-for-a-repository/) from the [GitHub repository for the license](https://github.com/licensezero/parity-public-license).
 
