@@ -10,7 +10,7 @@ Parity is a [flipped form](https://flippedform.com) in everyday English.  If som
 
 If you're using Parity for a project:
 
-[Open an issue or pull request on the repo for paritylicense.com to feature your project.](https://github.com/licensezero/parity-public-license)
+[Open an issue or pull request on the repository for paritylicense.com to feature your project.](https://github.com/licensezero/parity-public-license)
 
 [Watch new releases](https://help.github.com/articles/watching-and-unwatching-releases-for-a-repository/) from the [GitHub repository for the license](https://github.com/licensezero/parity-public-license).
 
