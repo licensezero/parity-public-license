@@ -32,6 +32,10 @@ You don't have to [contribute](#contribute) any change, addition, or other softw
 
 3.  You don't develop, operate, or analyze software with it for anyone outside the team developing it.
 
+## Reverse Engineering
+
+You may use this software to analyze software that you can't [contribute](#contribute) to develop an alternative that you do [contribute](#contribute).
+
 ## Contribute
 
 When this license requires you to [contribute](#contribute) software:
