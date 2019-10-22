@@ -8,7 +8,7 @@ Source Code: {{{uri}}}
 
 ## Purpose
 
-This license lets you use and share this software for free, as long as you contribute software you develop, operate, or analyze with it.
+This license allows you to use and share this software for free, as long as you contribute software you develop, operate, or analyze with it.
 
 ## Acceptance
 
@@ -42,7 +42,7 @@ When this license requires you to [contribute](#contribute) software:
 
 3.  Take these steps within thirty days.
 
-4.  Note that this license does _not_ let you to change the license terms for this software.
+4.  Note that this license does _not_ allow you to change the license terms for this software.
 
 ## Excuse
 
