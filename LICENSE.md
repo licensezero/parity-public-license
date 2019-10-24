@@ -46,7 +46,7 @@ When this license requires you to [contribute](#contribute) software:
 
 3.  Take these steps within thirty days.
 
-4.  Note that this license does _not_ allow you to change the license terms for this software.
+4.  Note that this license does _not_ allow you to change the license terms for this software.  You must follow [Notices](#notices).
 
 ## Excuse
 
