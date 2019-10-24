@@ -8,7 +8,7 @@ Source Code: {{{uri}}}
 
 ## Purpose
 
-This license allows you to use and share this software for free.  However, you must share other software building upon it alike.
+This license allows you to use and share this software for free.  However, you must share other software building on it alike.
 
 ## Acceptance
 
