@@ -50,7 +50,7 @@ When this license requires you to [contribute](#contribute) software:
 
 ## Excuse
 
-You are excused for unknowingly breaking [Copyleft](#copyleft) if you [contribute](#contribute) as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule.  You are excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
+You're excused for unknowingly breaking [Copyleft](#copyleft) if you [contribute](#contribute) as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule.  You're excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
 
 ## Defense
 
