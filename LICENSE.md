@@ -12,7 +12,7 @@ This license allows you to use and share this software for free, but you have to
 
 ## Agreement
 
-In order to receive this license, you have to agree to its rules.  Those rules are both obligations under your agreement and conditions to your license.  Don't do anything with this software that triggers a rule you can't or won't follow.
+In order to receive this license, you have to agree to its rules. Those rules are both obligations under that agreement and conditions to your license. Don't do anything with this software that triggers a rule you can't or won't follow.
 
 ## Notices
 
