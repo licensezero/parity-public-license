@@ -38,7 +38,7 @@ You may use this software to operate and analyze software you can't [contribute]
 
 ## Contribute
 
-When this license requires you to [contribute](#contribute) software:
+To [contribute](#contribute) software:
 
 1.  Publish all source code for the software in the preferred form for making changes through a freely accessible distribution system widely used for similar source code so the contributor and others can find and copy it.
 
