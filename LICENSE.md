@@ -1,4 +1,4 @@
-# The Parity Public License Development Draft
+# The Parity Public License 7.0.0
 
 Contributor: $name
 
