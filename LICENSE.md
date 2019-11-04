@@ -1,6 +1,4 @@
-# The Parity Public License
-
-Development Draft
+# The Parity Public License Development Draft
 
 Contributor: $name
 

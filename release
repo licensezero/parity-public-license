@@ -1,0 +1,21 @@
+#!/bin/bash
+if [ -z "$1" ]; then
+  echo "Usage: <version, no prefix>"
+  exit 1
+fi
+
+set -ex
+
+version="$1"
+branch="release-$version"
+tag="v$version"
+LICENSE=LICENSE.md
+
+git checkout -b "$branch" master
+sed --in-place "s/Development Draft/$version/" $LICENSE
+git add $LICENSE
+git commit -m "Version $version"
+git tag "$tag"
+git push origin "$branch"
+git push origin "$tag"
+git checkout master
