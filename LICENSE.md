@@ -4,7 +4,7 @@ Development Draft
 
 Contributor: {{{name}}}
 
-Source Code: {{{uri}}}
+Source Code: {{{address}}}
 
 ## Purpose
 
