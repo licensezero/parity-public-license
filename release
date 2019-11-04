@@ -10,10 +10,12 @@ version="$1"
 branch="release-$version"
 tag="v$version"
 LICENSE=LICENSE.md
+VERSION=version.json
 
 git checkout -b "$branch" master
 sed --in-place "s/Development Draft/$version/" $LICENSE
-git add $LICENSE
+echo "\"$version\"" > $VERSION
+git add $LICENSE $VERSION
 git commit -m "Version $version"
 git tag "$tag"
 git push origin "$branch"
