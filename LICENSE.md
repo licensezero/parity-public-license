@@ -42,7 +42,7 @@ To [contribute](#contribute) software:
 
 1.  Publish all source code for the software in the preferred form for making changes through a freely accessible distribution system widely used for similar source code so the contributor and others can find and copy it.
 
-2.  Make sure every part of the source code is available under this license or another license that allows everything this license does, such as [Blue Oak Model 1.0.0](https://blueoakcouncil.org/license/1.0.0), [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), [MIT](https://spdx.org/licenses/MIT.html), or [two-clause BSD](https://spdx.org/licenses/BSD-2-Clause.html).
+2.  Make sure every part of the source code is available under this license or another license that allows everything this license does, such as [the Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0), [the Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), [the MIT license](https://spdx.org/licenses/MIT.html), or [the two-clause BSD license](https://spdx.org/licenses/BSD-2-Clause.html).
 
 3.  Take these steps within thirty days.
 
