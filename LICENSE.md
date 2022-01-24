@@ -56,11 +56,11 @@ Don't make any legal claim against anyone accusing this software, with or withou
 
 ## Copyright
 
-The contributor licenses you to do everything with this software that would otherwise infringe their copyright in it.
+The contributor gives you license to do everything with this software that would otherwise infringe their copyright in it.
 
 ## Patent
 
-The contributor licenses you to do everything with this software that would otherwise infringe any patents they can license or become able to license.
+The contributor gives you license to do everything with this software that would otherwise infringe any patents they can license or become able to license.
 
 ## Reliability
 
