@@ -18,7 +18,7 @@ If you're using Parity for a project:
 
 You might choose Parity because you're a [pragmatic idealist](https://www.gnu.org/philosophy/pragmatic.en.html) looking for a copyleft license that's evolved with the times.
 
-You might choose Parity because you're realistic about the need for financial support for your work, and want to [sell licenses to users who won't give back in kind](https://guide.licensezero.com).
+You might choose Parity because you're realistic about the need for financial support for your work, and want to sell licenses to users who won't give back in kind.
 
 You might choose Parity because it's particularly important to make sure your users can understand your license.
 
